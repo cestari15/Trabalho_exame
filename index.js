@@ -300,3 +300,8 @@ server.get("/listaAdocoes", auth, (req, res) => {
 server.listen(porta, host, () => {
     console.log(`Servidor rodando em http://${host}:${porta}`);
 });
+
+
+
+//https://github.com/cestari15/Trabalho_exame.git github
+//trabalho-exame.vercel.app  vercel
